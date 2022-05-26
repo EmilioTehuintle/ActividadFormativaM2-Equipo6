@@ -1,8 +1,8 @@
 # ActividadFormativaM2-Equipo6
-# Actividad Git-GitHub
+## Actividad Git-GitHub
 
 
-Equipo 6
+### Equipo 6
 
 
 
