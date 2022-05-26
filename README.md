@@ -29,4 +29,4 @@ Manuel Andrés Rodríguez Rivera           A01659819
 Mariano Luna Tress                       A01734509
 
 
-Tecnologico de Monterrey
+Tecnológico de Monterrey
