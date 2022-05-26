@@ -16,7 +16,7 @@ Deborah Tirado Hernández                 A01746806
 
 
 
-Emilio Tehuintle Ramírez                 A00572154 
+EMilio Tehuintle Ramírez                 A00572154 
 
 
 
